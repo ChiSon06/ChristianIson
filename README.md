@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Christian, and I'm a future <a href="https://www.linkedin.com/in/christian-ison-388771280/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Christian, and I'm an <a href="https://www.linkedin.com/in/christian-ison-388771280/">IT Professional</a>☺</h1>
 
 <h2>Information Technology Projects:</h2>
 
